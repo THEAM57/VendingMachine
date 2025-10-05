@@ -1,0 +1,14 @@
+/Users/andrew/Desktop/Vending/bin/Debug/net9.0/Vending
+/Users/andrew/Desktop/Vending/bin/Debug/net9.0/Vending.deps.json
+/Users/andrew/Desktop/Vending/bin/Debug/net9.0/Vending.runtimeconfig.json
+/Users/andrew/Desktop/Vending/bin/Debug/net9.0/Vending.dll
+/Users/andrew/Desktop/Vending/bin/Debug/net9.0/Vending.pdb
+/Users/andrew/Desktop/Vending/obj/Debug/net9.0/Vending.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew/Desktop/Vending/obj/Debug/net9.0/Vending.AssemblyInfoInputs.cache
+/Users/andrew/Desktop/Vending/obj/Debug/net9.0/Vending.AssemblyInfo.cs
+/Users/andrew/Desktop/Vending/obj/Debug/net9.0/Vending.csproj.CoreCompileInputs.cache
+/Users/andrew/Desktop/Vending/obj/Debug/net9.0/Vending.dll
+/Users/andrew/Desktop/Vending/obj/Debug/net9.0/refint/Vending.dll
+/Users/andrew/Desktop/Vending/obj/Debug/net9.0/Vending.pdb
+/Users/andrew/Desktop/Vending/obj/Debug/net9.0/Vending.genruntimeconfig.cache
+/Users/andrew/Desktop/Vending/obj/Debug/net9.0/ref/Vending.dll
